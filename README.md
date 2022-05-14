@@ -1,6 +1,6 @@
 # FYP_DeepFake-Detection
 ## Datasets:
-## 1.Deepfakes Datasets
+## 1.Deepfake Datasets
 
 Datasets|Year|Ratio<br>tampered:original|Total videos|Source|Participants Consent|Tools
 :-------:|:----:|:-----------:|:----:|:---:|:-----:|:--:
