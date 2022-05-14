@@ -61,8 +61,7 @@ Transformer Architecture
 
 ## 5.Results:
 
-https://user-images.githubusercontent.com/52126773/168429647-74318084-a072-4714-bb37-c10d92cbc17a.mp4
-
+https://www.youtube.com/watch?v=BJHqc2oKOUs
 
 
 
