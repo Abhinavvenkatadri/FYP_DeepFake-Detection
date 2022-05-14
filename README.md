@@ -59,13 +59,10 @@ Transformer Architecture
 
 ![as](https://user-images.githubusercontent.com/52126773/168429055-305987fa-963d-4215-8c84-66da78ff3863.PNG)
 
-## Results:
+## 5.Results:
 
-IF we consider accuracy for each and every video:
-
-![av](https://user-images.githubusercontent.com/52126773/168429151-30e955fa-741f-48f3-adb7-3f9c3814db01.PNG)
-
-IF we consider accuracy for each and every frame:
+https://user-images.githubusercontent.com/52126773/168429647-74318084-a072-4714-bb37-c10d92cbc17a.mp4
 
 
-![af](https://user-images.githubusercontent.com/52126773/168429167-87a11b39-052a-474d-9d42-8811cc10ffd7.PNG)
+
+
