@@ -27,7 +27,7 @@ Because we know that a huge amount of data benefits our learning algorithm and t
 
 ## 3.Model Architecture
 
-Vision Transformer
+Vision Transformer:
 
 While the Transformer architecture has become the highest standard for tasks involving natural language processing (NLP), its use cases relating to computer vision (CV) remain only a few. In computer vision, attention is either used in conjunction with convolutional networks (CNN) or used to substitute certain aspects of convolutional networks while keeping their entire composition intact. However, this dependency on CNN is not mandatory, and a pure transformer applied directly to sequences of image patches can work exceptionally well on image classification tasks.
 
