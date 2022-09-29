@@ -10,7 +10,7 @@ Datasets|Year|Ratio<br>tampered:original|Total videos|Source|Participants Consen
 [Celeb-DF](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html)|2019|1 : 0.51|1203|YouTube|N|a refined version of the DeepFake
 [DFDC Preview Dataset](https://deepfakedetectionchallenge.ai/dataset)|2019|1 : 0.28|5214|Actors|Y|Unknown
 
-## 2.Pre-Processing
+## 2.Pre-Processing:
 
 Faces were extracted from each frame using KCF Trackers and Opencv
 
